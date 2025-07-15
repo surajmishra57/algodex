@@ -1,0 +1,53 @@
+1.First Repeating Character
+2.First Non-Repeating Character
+3.Check for Rotation
+4.K’th Non-repeating Character
+5.Implement atoi
+6.Add 2 Binary Strings
+7.Add n Binary Strings
+8.Multiply 2 Strings
+9.Divide large number
+10.Isomorphic Strings
+11.Remove Adjacent
+12.Roman to Integer
+13.Interleaved Strings
+14.Permutations of a String
+15.Longest Palindromic Substring
+16.Anagram substrings
+17.Binary strings without consecutive 1’s
+18.Lexicographically next string
+19.Split String into four distinct strings
+20.Word Break Problem
+21.Minimum Swaps for Bracket Balancing
+22.String to mobile numeric keypad sequence
+23.Minimum number from given sequence
+24.Shortest path to print a string on screen
+
+
+
+| Rank | Problem                                                        | Frequency    | Commonly Asked In                                     |
+| ---- | -------------------------------------------------------------- | ------------ | ----------------------------------------------------- |
+| 1    | **First Non-Repeating Character**                              | 🔥 Very High | Amazon, Microsoft, Adobe, Google                      |
+| 2    | **First Repeating Character**                                  | 🔥 Very High | Amazon, Flipkart, TCS, Wipro                          |
+| 3    | **Word Break Problem (DP + Trie)**                             | 🔥 Very High | Amazon, Google, Microsoft, Adobe                      |
+| 4    | **Permutations of a String (Backtracking)**                    | 🔥 Very High | Amazon, Adobe, Flipkart                               |
+| 5    | **Roman to Integer**                                           | 🔥 Very High | Adobe, Microsoft, Amazon                              |
+| 6    | **Longest Palindromic Substring (DP / Expand Around Center)**  | 🔥 Very High | Google, Amazon, Flipkart, Microsoft                   |
+| 7    | **Anagram Substrings**                                         | 🟡 Moderate  | Amazon, Adobe, Paytm                                  |
+| 8    | **Implement atoi (String to Integer)**                         | 🟡 Moderate  | Microsoft, Google, Amazon                             |
+| 9    | **Add 2 Binary Strings**                                       | 🟡 Moderate  | Amazon, Flipkart                                      |
+| 10   | **K’th Non-Repeating Character**                               | 🟡 Moderate  | Amazon, Adobe                                         |
+| 11   | **Add n Binary Strings**                                       | 🟢 Low       | Rare – Amazon, Google (in memory optimization rounds) |
+| 12   | **Multiply 2 Strings**                                         | 🟢 Low       | Google, Amazon, ByteDance                             |
+| 13   | **Divide Large Number (string-based division)**                | 🟢 Low       | Google (math-heavy or implementation rounds)          |
+| 14   | **Isomorphic Strings**                                         | 🟢 Low       | Flipkart, Amazon                                      |
+| 15   | **Remove Adjacent Duplicates (like stack)**                    | 🟢 Low       | Amazon, Adobe                                         |
+| 16   | **Check for Rotation**                                         | 🟢 Low       | TCS, Capgemini, Infosys (simple trick question)       |
+| 17   | **Interleaved Strings (DP)**                                   | 🟢 Low       | Google, Adobe (advanced)                              |
+| 18   | **Binary Strings Without Consecutive 1’s (DP)**                | 🟢 Low       | Microsoft, Google (dynamic programming variant)       |
+| 19   | **Lexicographically Next String (Next Permutation)**           | 🟢 Low       | Amazon, Flipkart (in optimization rounds)             |
+| 20   | **Split String into 4 Distinct Substrings**                    | 🟢 Low       | Google, Microsoft (advanced logic-based)              |
+| 21   | **Minimum Swaps for Bracket Balancing**                        | 🟢 Low       | Amazon, Google (special case of stack/greedy logic)   |
+| 22   | **String to Mobile Numeric Keypad Sequence**                   | 🟢 Low       | Infosys, Capgemini (simulation-based rounds)          |
+| 23   | **Minimum Number from Given Sequence ('I' and 'D')**           | 🟢 Low       | Amazon, Adobe (pattern-based)                         |
+| 24   | **Shortest Path to Print a String on Screen (Min keystrokes)** | 🟢 Low       | Google, ByteDance (rare optimization puzzle)          |

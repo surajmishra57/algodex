@@ -1,0 +1,38 @@
+1. Check for Binary
+2. Camel Case Conversion
+3. Substrings with Corners as 1s
+4. Check for Panagram
+5. Check for Palindrome
+6. Check for Substring
+7. Check for Subsequence
+8. Check for Anagrams
+9. Check for K-Anagrams
+10.Longest Substring Between Equals
+11.Generate all binary strings from given pattern
+12.Smallest and Largest Word in a String
+13.Count number of equal pairs in a string
+14.All strings by placing spaces
+15.Char Frequencies in Order of Occurrence
+16.Char Frequencies in Alphabetical order
+17.URLify a given string
+
+
+| Rank | Problem                                        | Frequency    | Commonly Asked In                                           |
+| ---- | ---------------------------------------------- | ------------ | ----------------------------------------------------------- |
+| 1    | **Check for Palindrome**                       | 🔥 Very High | Amazon, Microsoft, TCS, Infosys, Adobe                      |
+| 2    | **Check for Anagrams**                         | 🔥 Very High | Amazon, Google, Paytm, Flipkart                             |
+| 3    | **Check for Substring** (`s.contains(t)`)      | 🔥 Very High | Microsoft, TCS, Infosys                                     |
+| 4    | **Check for Subsequence**                      | 🔥 Very High | Flipkart, Amazon, Oracle                                    |
+| 5    | **Camel Case Conversion**                      | 🟡 Moderate  | Microsoft, TCS (used in formatting & parser rounds)         |
+| 6    | **Check for Pangram**                          | 🟡 Moderate  | TCS, Capgemini, Infosys                                     |
+| 7    | **URLify a Given String** (replace spaces)     | 🟡 Moderate  | Amazon, Microsoft, Adobe (also in Cracking the Coding Int.) |
+| 8    | **Char Frequencies in Order of Occurrence**    | 🟡 Moderate  | Flipkart, TCS, Service-based companies                      |
+| 9    | **Char Frequencies in Alphabetical Order**     | 🟡 Moderate  | Infosys, Wipro, Zoho                                        |
+| 10   | **Smallest and Largest Word in a String**      | 🟡 Moderate  | Capgemini, TCS, Wipro                                       |
+| 11   | **Check for Binary (only 0s and 1s)**          | 🟢 Low       | Infosys, TCS (basic validation questions)                   |
+| 12   | **Check for K-Anagrams**                       | 🟢 Low       | Niche – sometimes in Microsoft, Adobe                       |
+| 13   | **Count Equal Character Pairs in String**      | 🟢 Low       | Cognizant, TCS, Tech Mahindra                               |
+| 14   | **Generate All Binary Strings from Pattern**   | 🟢 Low       | Google, Amazon (as recursion backtracking variant)          |
+| 15   | **All Strings by Placing Spaces (Recursive)**  | 🟢 Low       | Amazon (Rare backtracking/string variants)                  |
+| 16   | **Substrings with Corners as 1s**              | 🟢 Low       | Competitive or hard-core logic questions (rare in MNCs)     |
+| 17   | **Longest Substring Between Equal Characters** | 🟢 Low       | Leetcode-style problem; seen rarely in Microsoft, Amazon    |
