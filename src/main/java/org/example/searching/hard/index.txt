@@ -1,0 +1,14 @@
+
+
+
+
+
+| Rank | Problem                                           | Frequency    | Commonly Asked In                          |
+| ---- | ------------------------------------------------- | ------------ | ------------------------------------------ |
+| 1    | **K’th Smallest/Largest in Unsorted Array**       | 🔥 Very High | Amazon, Google, Microsoft, Adobe, Flipkart |
+| 2    | **Median of Two Sorted Arrays (different sizes)** | 🔥 Very High | Google, Microsoft, Facebook, Oracle, Adobe |
+| 3    | **K’th Largest Element in a Stream**              | 🔥 Very High | Amazon, Uber, Google, Twitter, LinkedIn    |
+| 4    | **Search in a Sorted Infinite Array**             | 🟡 Moderate  | Google, Microsoft, Adobe, Amazon           |
+| 5    | **Search in an Almost Sorted Array**              | 🟡 Moderate  | Adobe, Flipkart, TCS, Paytm                |
+| 6    | **Pair Sum in a Sorted and Rotated Array**        | 🟡 Moderate  | Amazon, Oracle, Wipro, Accenture           |
+| 7    | **Median of Two Sorted Arrays (equal sizes)**     | 🟢 Low       | Samsung, TCS (used as warm-up question)    |

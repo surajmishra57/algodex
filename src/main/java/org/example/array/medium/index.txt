@@ -1,0 +1,41 @@
+Make arr[i] = i
+Maximum Circular Subarray Sum
+Reorder according to given indexes
+Product Except Self
+K-th Largest Sum Subarray
+Smallest missing number
+Smallest subarray with sum greater than x
+Majority Element
+Count possible triangles
+Sub-array with given sum
+Longest Subarray with Equal 0s and 1s
+Longest Common Span in Two Binary Arrays
+Construct an array from its pair-sum array
+2 Sum - All Pairs
+2 Sum - Distinct Pairs
+3 Sum - Find Any
+3 Sum - Closest Triplet
+4 Sum - Find Any [More problems on 4 Sum in Hard Section]
+
+
+
+| Rank | Problem                                      | Frequency    | Commonly Asked In                                       |
+| ---- | -------------------------------------------- | ------------ | ------------------------------------------------------- |
+| 1    | **Product Except Self**                      | 🔥 Very High | Amazon, Microsoft, Google, Facebook                     |
+| 2    | **Majority Element** (Boyer–Moore)           | 🔥 Very High | Amazon, Adobe, Microsoft, Google                        |
+| 3    | **Sub-array with Given Sum**                 | 🔥 Very High | Amazon, Flipkart, Paytm, TCS                            |
+| 4    | **Smallest Subarray with Sum > X**           | 🔥 Very High | Google, Amazon, Facebook                                |
+| 5    | **Maximum Circular Subarray Sum**            | 🔥 Very High | Amazon, Microsoft, Flipkart                             |
+| 6    | **3 Sum – Closest Triplet**                  | 🔥 Very High | Google, Amazon, PayPal                                  |
+| 7    | **K-th Largest Sum Subarray**                | 🟡 Moderate  | Amazon, Goldman Sachs, Microsoft                        |
+| 8    | **2 Sum – Distinct Pairs**                   | 🟡 Moderate  | Flipkart, Adobe, Microsoft                              |
+| 9    | **2 Sum – All Pairs**                        | 🟡 Moderate  | Microsoft, Google (more in interviews with constraints) |
+| 10   | **3 Sum – Find Any**                         | 🟡 Moderate  | Amazon, Adobe, Oracle                                   |
+| 11   | **4 Sum – Find Any**                         | 🟡 Moderate  | Amazon, Microsoft, Facebook                             |
+| 12   | **Longest Subarray with Equal 0s and 1s**    | 🟡 Moderate  | Amazon, Google, Flipkart                                |
+| 13   | **Reorder According to Given Indexes**       | 🟡 Moderate  | Amazon, Microsoft (Follow-up round logic)               |
+| 14   | **Longest Common Span in Two Binary Arrays** | 🟡 Moderate  | Adobe, Flipkart                                         |
+| 15   | **Smallest Missing Number**                  | 🟢 Low       | Infosys, TCS, Wipro                                     |
+| 16   | **Count Possible Triangles**                 | 🟢 Low       | Samsung, Oracle (niche)                                 |
+| 17   | **Make arr\[i] = i**                         | 🟢 Low       | Infosys, TCS (data-cleaning style question)             |
+| 18   | **Construct Array from Its Pair-Sum Array**  | 🟢 Low       | Adobe, Puzzle rounds                                    |

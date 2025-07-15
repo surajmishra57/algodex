@@ -1,0 +1,30 @@
+1. Triplets with zero sum
+2. Partition Point
+3. Largest pair sum
+4. K’th Smallest in Unsorted Array
+5. Search, Min & Max in a Sorted & Rotated
+6. Peak element
+7. Fixed Point
+8. K Most Frequent Words
+9. K closest elements
+10.Closest Pair from two sorted
+11.Binary Search for Rationals
+12.Missing Element in AP
+
+
+
+Final Ranked List (Most to Least Asked for Search)
+| Rank | Problem                                     | Frequency    | Commonly Asked In                                    |
+| ---- | ------------------------------------------- | ------------ | ---------------------------------------------------- |
+| 1    | **K’th Smallest in Unsorted Array**         | 🔥 Very High | Amazon, Google, Microsoft, Adobe, Paytm              |
+| 2    | **Search, Min & Max in a Sorted & Rotated** | 🔥 Very High | Amazon, Google, Adobe, Samsung                       |
+| 3    | **Peak Element**                            | 🔥 Very High | Google, Amazon, Flipkart, PayPal                     |
+| 4    | **K Most Frequent Words**                   | 🔥 Very High | Amazon, Twitter, Uber, LinkedIn, Microsoft           |
+| 5    | **K Closest Elements**                      | 🟡 Moderate  | Facebook, Google, Uber, Flipkart                     |
+| 6    | **Triplets with Zero Sum (3Sum)**           | 🟡 Moderate  | Amazon, Adobe, Paytm, Walmart                        |
+| 7    | **Closest Pair from Two Sorted Arrays**     | 🟡 Moderate  | Flipkart, Paytm, Service-based companies             |
+| 8    | **Largest Pair Sum**                        | 🟡 Moderate  | TCS, Wipro, Infosys                                  |
+| 9    | **Fixed Point (arr\[i] == i)**              | 🟢 Low       | Microsoft (occasionally), TCS                        |
+| 10   | **Partition Point**                         | 🟢 Low       | Rare – seen in custom algorithmic rounds             |
+| 11   | **Binary Search for Rationals**             | 🟢 Low       | Rare – sometimes in math-focused or ML-related roles |
+| 12   | **Missing Element in AP**                   | 🟢 Low       | Infosys, TCS, logical reasoning rounds               |

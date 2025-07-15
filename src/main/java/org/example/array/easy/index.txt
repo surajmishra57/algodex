@@ -1,0 +1,35 @@
+Duplicate within K Distance
+Make Even Positioned Greater
+Sum of all Subarrays
+Stock Buy and Sell – Multiple Transactions
+Single Among Doubles
+Missing Number
+Missing and Repeating
+Only Repeating from 1 to n-1
+Sorted Subsequence of Size 3
+Max Subarray Sum
+Equilibrium index
+Two Sum - Find if there is a Pair
+Two Sum - Closest Pair [More problems on 2 Sum in Medium Section]
+Split array into three equals
+Maximum Consecutive 1s with K Flips
+
+
+
+| Rank | Problem                                        | Frequency    | Commonly Asked In                           |
+| ---- | ---------------------------------------------- | ------------ | ------------------------------------------- |
+| 1    | **Max Subarray Sum** (Kadane’s Algorithm)      | 🔥 Very High | Amazon, Microsoft, Adobe, Google, Paytm     |
+| 2    | **Two Sum – Find if there is a Pair**          | 🔥 Very High | Amazon, Microsoft, Goldman Sachs, Flipkart  |
+| 3    | **Missing and Repeating**                      | 🔥 Very High | Amazon, TCS, Infosys, Wipro                 |
+| 4    | **Missing Number**                             | 🔥 Very High | Microsoft, Google, Paytm, Flipkart          |
+| 5    | **Single Among Doubles** (using XOR)           | 🔥 Very High | Amazon, Microsoft, Samsung                  |
+| 6    | **Stock Buy and Sell – Multiple Transactions** | 🔥 Very High | Amazon, Flipkart, Goldman Sachs, Paytm      |
+| 7    | **Maximum Consecutive 1s with K Flips**        | 🟡 Moderate  | Google, Facebook, Amazon                    |
+| 8    | **Equilibrium Index**                          | 🟡 Moderate  | Adobe, Paytm, TCS, Zoho                     |
+| 9    | **Only Repeating from 1 to n-1**               | 🟡 Moderate  | TCS, Wipro, Infosys                         |
+| 10   | **Duplicate within K Distance**                | 🟡 Moderate  | Google, Microsoft, Paytm                    |
+| 11   | **Sorted Subsequence of Size 3**               | 🟡 Moderate  | Amazon, Microsoft, Adobe                    |
+| 12   | **Two Sum – Closest Pair**                     | 🟡 Moderate  | Uber, Paytm, Flipkart                       |
+| 13   | **Sum of All Subarrays**                       | 🟢 Low       | TCS, Infosys                                |
+| 14   | **Split Array into Three Equal Sum Parts**     | 🟢 Low       | Microsoft, Goldman Sachs                    |
+| 15   | **Make Even Positioned Greater**               | 🟢 Low       | Rare – Appears in algorithm contests / Zoho |

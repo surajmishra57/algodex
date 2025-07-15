@@ -1,0 +1,34 @@
+
+1.  Surpasser Count
+2.  Trapping Rain Water
+3.  Top K Frequent Elements
+4.  Kth Missing Positive Number in a Sorted Array
+5.  Stock Buy and Sell - At Most K Transactions
+6.  Stock Buy and Sell - At Most 2 Transactions
+7.  Median in a Stream
+8.  Smallest Difference Triplet from 3 arrays
+9.  Max occurred in n ranges
+10. 3 Sum - Distinct Triplets
+11. 3 Sum - All Triplets
+12. 4 Sum - Distinct Quadruples
+13. 4 Sum - All Quadruples
+14. 4 Sum - Closest Quadruple
+
+
+
+| Rank | Problem                                                  | Frequency    | Commonly Asked In                          |
+| ---- | -------------------------------------------------------- | ------------ | ------------------------------------------ |
+| 1    | **Trapping Rain Water**                                  | 🔥 Very High | Amazon, Google, Microsoft, Flipkart, Uber  |
+| 2    | **Top K Frequent Elements**                              | 🔥 Very High | Amazon, Uber, LinkedIn, Twitter, Microsoft |
+| 3    | **Stock Buy and Sell – At Most K Transactions**          | 🔥 Very High | Amazon, Microsoft, Paytm, Goldman Sachs    |
+| 4    | **Median in a Stream**                                   | 🔥 Very High | Google, Amazon, Microsoft, Facebook        |
+| 5    | **Stock Buy and Sell – At Most 2 Transactions**          | 🔥 Very High | Amazon, Flipkart, Goldman Sachs, Uber      |
+| 6    | **3 Sum – Distinct Triplets**                            | 🟡 Moderate  | Amazon, Adobe, Walmart, Oracle             |
+| 7    | **4 Sum – Distinct Quadruples**                          | 🟡 Moderate  | Amazon, Microsoft, Adobe                   |
+| 8    | **Kth Missing Positive Number in a Sorted Array**        | 🟡 Moderate  | Facebook, Google, Paytm                    |
+| 9    | **4 Sum – Closest Quadruple**                            | 🟡 Moderate  | Google, Amazon (follow-up to 4Sum)         |
+| 10   | **3 Sum – All Triplets (with duplicates allowed)**       | 🟡 Moderate  | Flipkart, Walmart                          |
+| 11   | **4 Sum – All Quadruples (with duplicates allowed)**     | 🟢 Low       | Oracle, Paytm (rare)                       |
+| 12   | **Smallest Difference Triplet from 3 Arrays**            | 🟢 Low       | Google (edge case logic), Adobe            |
+| 13   | **Max Occurred in N Ranges**                             | 🟢 Low       | Infosys, TCS, Wipro                        |
+| 14   | **Surpasser Count** (count of greater elements on right) | 🟢 Low       | Amazon (rare), used in advanced rounds     |

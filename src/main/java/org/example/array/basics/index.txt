@@ -1,0 +1,23 @@
+Print Alternates
+Leaders in an array
+Check if Sorted
+Remove Duplicates from Sorted
+Generate all Subarrays
+Reverse an Array
+Rotate an Array
+Zeroes to End
+Min Increments to Make Equal
+Min Cost to Make Size 1
+
+| Rank | Problem                                   | Frequency    | Commonly Asked In                                 |
+| ---- | ----------------------------------------- | ------------ | ------------------------------------------------- |
+| 1    | **Remove Duplicates from Sorted Array**   | 🔥 Very High | Amazon, Google, Microsoft, Adobe                  |
+| 2    | **Check if Array is Sorted**              | 🔥 Very High | TCS, Infosys, Amazon (warm-up round)              |
+| 3    | **Leaders in an Array**                   | 🔥 Very High | Amazon, Paytm, Flipkart                           |
+| 4    | **Rotate an Array**                       | 🔥 Very High | Amazon, Microsoft, Goldman Sachs                  |
+| 5    | **Zeroes to End**                         | 🟡 Moderate  | Amazon, Flipkart, Infosys                         |
+| 6    | **Reverse an Array**                      | 🟡 Moderate  | TCS, Wipro, Capgemini                             |
+| 7    | **Generate All Subarrays**                | 🟡 Moderate  | Asked as part of sum/count problems in interviews |
+| 8    | **Print Alternates (Even/Odd Index)**     | 🟢 Low       | Warm-up or coding test, Infosys, TCS              |
+| 9    | **Min Increments to Make Elements Equal** | 🟢 Low       | Google (rare), CodeJam-like problem               |
+| 10   | **Min Cost to Make Array Size 1**         | 🟢 Low       | Google, ByteDance (niche problem)                 |
