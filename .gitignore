@@ -1,0 +1,41 @@
+# Gradle files
+.gradle/
+build/
+out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# NetBeans
+nbproject/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+
+# Gradle wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties

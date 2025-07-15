@@ -25,6 +25,43 @@ package org.example.searching.medium;
  */
 public class Q9 {
     public static void main(String[] args) {
+        int[] arr = new int[]{12, 16, 22, 30, 35, 39, 42, 45, 48, 50, 53, 55, 56};
+        int k = 4;
+        int x = 35;
+        for (var t : findColsestKElementsUsingLinearSearch(arr, k, x)) {
+            System.out.print(t + " ");
+        }
+    }
 
+    private static int[] findColsestKElementsUsingLinearSearch(int[] arr, int k, int x) {
+        int[] result = new int[k];
+        int count = 0;
+        int i = 0;
+        while (i < arr.length && arr[i] < x) {
+            i++;
+        }
+        int left = i - 1, right = i;
+        if (right < arr.length && arr[right] == x)
+            right++;
+        while (left >= 0 && right < arr.length - 1 && count < k) {
+            int leftDiff = Math.abs(arr[left] - x);
+            int rightDiff = Math.abs(arr[right] - x);
+            if (leftDiff < rightDiff) {
+                result[count++] = arr[left];
+                left--;
+            } else {
+                result[count++] = arr[right];
+                right++;
+            }
+
+        }
+        while (left >= 0 && count < k) {
+            result[count++] = arr[left--];
+        }
+        while (right < arr.length - 1 && count < k) {
+            result[count++] = arr[right++];
+        }
+
+        return result;
     }
 }
