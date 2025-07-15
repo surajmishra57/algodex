@@ -1,0 +1,22 @@
+1. Length of a String
+2. Check for Same
+3. Search a Character
+4. Insert a Character
+5. Remove a Character
+6. Remove all occurrences
+7. Concatenating Two Strings
+8. Reverse a string
+9. Generate all Substrings
+
+| Rank | Problem                          | Frequency    | Commonly Asked In                              |
+| ---- | -------------------------------- | ------------ | ---------------------------------------------- |
+| 1    | **Reverse a String**             | 🔥 Very High | Amazon, Microsoft, TCS, Wipro                  |
+| 2    | **Remove All Occurrences**       | 🔥 Very High | Amazon, Adobe, Capgemini                       |
+| 3    | **Length of a String**           | 🔥 Very High | TCS, Infosys, Accenture (warm-up)              |
+| 4    | **Check for Same Strings**       | 🔥 Very High | Infosys, TCS, Capgemini, Tech Mahindra         |
+| 5    | **Generate All Substrings**      | 🟡 Moderate  | Amazon, Microsoft (used in pattern matching)   |
+| 6    | **Concatenating Two Strings**    | 🟡 Moderate  | Wipro, Infosys, TCS (used in form validations) |
+| 7    | **Search a Character in String** | 🟢 Low       | TCS, Capgemini (entry-level)                   |
+| 8    | **Insert a Character**           | 🟢 Low       | Rare – Mostly in simulation-style questions    |
+| 9    | **Remove a Character**           | 🟢 Low       | Wipro, Cognizant (basic level)                 |
+

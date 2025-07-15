@@ -1,0 +1,36 @@
+1. Lexicographic Rank of a String
+2. Multiply Large Numbers
+3. Ways to increase LCS length of 2 strings by one
+4. Min rotations required to get the same string
+5. Find if an array of strings can be chained to form a circle
+6. Alien Dictionary
+7. Make two strings Anagram
+8. Make two Strings Anagram Without Deletion
+9. Palindrome Substring Queries
+10.Powet Set in Lexicographic order
+11.Minimum Word Break
+12.Word Search - 8 Directions and Straight Movement
+13.Word Search - 4 Directions and Zig-Zag Allowed
+14.Minimum bracket reversals to make balanced
+15.Word Wrap problem
+16.Decode a string encoded with recursive substring counts
+
+
+| Rank | Problem                                               | Frequency    | Commonly Asked In                                          |
+| ---- | ----------------------------------------------------- | ------------ | ---------------------------------------------------------- |
+| 1    | **Alien Dictionary (Topological Sort)**               | 🔥 Very High | Google, Amazon, Microsoft, Facebook, Flipkart              |
+| 2    | **Minimum Word Break (Word Break I & II)**            | 🔥 Very High | Amazon, Adobe, Google, Microsoft                           |
+| 3    | **Multiply Large Numbers (Strings)**                  | 🔥 Very High | Google, Amazon, Microsoft                                  |
+| 4    | **Lexicographic Rank of a String**                    | 🔥 Very High | Amazon, Adobe, Flipkart                                    |
+| 5    | **Make Two Strings Anagram (with deletion)**          | 🔥 Very High | Amazon, Microsoft, Adobe                                   |
+| 6    | **Powet Set in Lexicographic Order**                  | 🟡 Moderate  | Amazon, Adobe (recursion/backtracking rounds)              |
+| 7    | **Minimum Bracket Reversals to Make Balanced**        | 🟡 Moderate  | Microsoft, Google (stack + logic based)                    |
+| 8    | **Make Two Strings Anagram Without Deletion**         | 🟡 Moderate  | Less common, but conceptually tested in optimization tasks |
+| 9    | **Min Rotations to Get Same String (Rotation match)** | 🟡 Moderate  | Google, Flipkart (edge case & mod handling)                |
+| 10   | **Find If Array of Strings Can Form a Circle**        | 🟡 Moderate  | Microsoft, Paytm, Zoho (Graph + DFS/Backtracking)          |
+| 11   | **Ways to Increase LCS Length by One**                | 🟢 Low       | Niche dynamic programming puzzle – rarely asked            |
+| 12   | **Palindrome Substring Queries (Preprocessing)**      | 🟢 Low       | Google (advanced round), CP problems                       |
+| 13   | **Word Search – 8 Directions + Straight Movement**    | 🟢 Low       | Amazon, Google (rare variant of normal Word Search)        |
+| 14   | **Word Search – 4 Directions & Zig-Zag Allowed**      | 🟢 Low       | Google, Microsoft (rare pattern extension)                 |
+| 15   | **Word Wrap Problem (DP)**                            | 🟢 Low       | Adobe, Google (special cases in DP section)                |
+| 16   | **Decode String with Recursive Substring Counts**     | 🟢 Low       | Amazon, Google (recursion-heavy and LeetCode-style)        |
