@@ -1,0 +1,22 @@
+Factorial
+Print 1 to n
+Print n to 1
+Sum of array
+Reverse a string
+Decimal to binary
+Sum of digit
+Array Min and Max
+Palindrome Check
+
+
+| Rank | Problem               | Frequency    | Commonly Asked In                 |
+| ---- | --------------------- | ------------ | --------------------------------- |
+| 1    | **Factorial**         | 🔥 Very High | Amazon, TCS, Infosys, Wipro       |
+| 2    | **Palindrome Check**  | 🔥 Very High | Amazon, Capgemini, Infosys, Wipro |
+| 3    | **Sum of Array**      | 🔥 Very High | Infosys, TCS, Tech Mahindra       |
+| 4    | **Reverse a String**  | 🔥 Very High | Amazon, Wipro, Capgemini          |
+| 5    | **Sum of Digits**     | 🟡 Moderate  | TCS, Infosys, Cognizant           |
+| 6    | **Array Min and Max** | 🟡 Moderate  | Amazon, Infosys, Accenture        |
+| 7    | **Decimal to Binary** | 🟢 Low       | TCS, Wipro, academic practice     |
+| 8    | **Print 1 to n**      | 🟢 Low       | TCS, Capgemini (warm-up rounds)   |
+| 9    | **Print n to 1**      | 🟢 Low       | Infosys, Wipro (warm-up rounds)   |
