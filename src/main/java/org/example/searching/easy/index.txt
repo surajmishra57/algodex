@@ -1,0 +1,35 @@
+1. Largest in an Array
+2. Second Largest in an array
+3. Largest three in an array
+4. Missing Number
+5. First Repeating
+6. Missing and Repeating
+7. Count 1’s in a sorted binary array
+8. k largest(or smallest) Elements
+9. Kth smallest in row and column-wise sorted
+10.Common elements in 3 sorted
+11.Ceiling & Floor in a Sorted
+12.Max in a Bitonic
+13.More than n/k times Appearing
+14.Pair Sum Closest to Target
+
+
+
+Final Ranked List:
+
+| Rank | Problem                                      | Frequency    | Commonly Asked In                       |
+| ---- | -------------------------------------------- | ------------ | --------------------------------------- |
+| 1    | **K Largest (or Smallest) Elements**         | 🔥 Very High | Amazon, Google, Microsoft, Adobe, Paytm |
+| 2    | **Missing Number**                           | 🔥 Very High | Microsoft, Google, Paytm, Flipkart      |
+| 3    | **First Repeating**                          | 🔥 Very High | Amazon, TCS, Flipkart, Accenture        |
+| 4    | **Missing and Repeating**                    | 🔥 Very High | Amazon, TCS, Infosys, Wipro             |
+| 5    | **Kth Smallest in Row & Column-wise Sorted** | 🔥 Very High | Amazon, Microsoft, Google, Adobe        |
+| 6    | **Pair Sum Closest to Target**               | 🟡 Moderate  | Goldman Sachs, Amazon, Uber, Paytm      |
+| 7    | **Common Elements in 3 Sorted Arrays**       | 🟡 Moderate  | Adobe, Flipkart, Accenture              |
+| 8    | **Largest in an Array**                      | 🟡 Moderate  | TCS, Wipro, Infosys                     |
+| 9    | **Second Largest in an Array**               | 🟡 Moderate  | TCS, Infosys, Capgemini                 |
+| 10   | **More than n/k times Appearing**            | 🟡 Moderate  | Amazon, Flipkart, Adobe                 |
+| 11   | **Count 1’s in a Sorted Binary Array**       | 🟢 Low       | Microsoft, Zoho, Samsung                |
+| 12   | **Ceiling & Floor in a Sorted Array**        | 🟢 Low       | Samsung, Zoho, Infosys                  |
+| 13   | **Max in a Bitonic Array**                   | 🟢 Low       | Goldman Sachs, Amazon (occasionally)    |
+| 14   | **Largest Three in an Array**                | 🟢 Low       | Wipro, Capgemini, TCS (Warm-up)         |
