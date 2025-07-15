@@ -1,8 +1,6 @@
 package org.example.searching.medium;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 /**
  * https://www.geeksforgeeks.org/dsa/find-triplets-array-whose-sum-equal-zero/
