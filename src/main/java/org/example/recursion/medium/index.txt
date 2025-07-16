@@ -1,0 +1,25 @@
+Mean of Array
+Adjacent duplicates
+Coin Change
+Binary to Gray
+Longest palindromic substring
+Tower of Hanoi
+Compute nCr
+Permutations
+Subsets
+Possible paths in matrix
+Combinations of Parentheses
+
+| Rank | Problem                                 | Frequency    | Commonly Asked In                                        |
+| ---- | --------------------------------------- | ------------ | -------------------------------------------------------- |
+| 1    | **Coin Change** (DP + Recursion)        | 🔥 Very High | Amazon, Google, Microsoft, Adobe, Flipkart               |
+| 2    | **Tower of Hanoi**                      | 🔥 Very High | Amazon, TCS, Infosys, Wipro                              |
+| 3    | **Permutations** (Backtracking)         | 🔥 Very High | Google, Amazon, Microsoft, Adobe                         |
+| 4    | **Subsets (Power Set)**                 | 🔥 Very High | Amazon, Flipkart, Google, Microsoft                      |
+| 5    | **Combinations of Parentheses**         | 🔥 Very High | Google, Adobe, Amazon (Backtracking + DFS)               |
+| 6    | **Longest Palindromic Substring**       | 🔥 Very High | Amazon, Flipkart, Microsoft, Adobe                       |
+| 7    | **Possible Paths in Matrix** (Rec + DP) | 🟡 Moderate  | Amazon, Adobe, Microsoft                                 |
+| 8    | **Compute nCr (Recursion + DP)**        | 🟡 Moderate  | Adobe, Amazon, TCS                                       |
+| 9    | **Adjacent Duplicates Removal**         | 🟡 Moderate  | Amazon, Flipkart, Service-based rounds (stack/recursion) |
+| 10   | **Binary to Gray Conversion**           | 🟢 Low       | TCS, Wipro, Infosys (simulation/bitwise focus)           |
+| 11   | **Mean of Array** (using recursion)     | 🟢 Low       | TCS, Cognizant (warm-up, often combined with sum/max)    |
