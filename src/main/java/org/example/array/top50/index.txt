@@ -1,0 +1,125 @@
+Easy
+================
+Second Largest Element
+Third Largest Element
+Three Great Candidates
+Max Consecutive Ones
+Move All Zeroes To End
+Reverse Array in Groups
+Rotate Array
+Wave Array
+Plus One
+Stock Buy and Sell – One Transaction
+Repetitive Addition Of Digits
+Remove All Occurrences of Element
+Remove Duplicates from Sorted Array
+Alternate Positive Negative
+Insert Duplicate Element
+Array Leaders
+Missing and Repeating in Array
+Missing Ranges of Numbers
+
+
+| Rank | Problem Name                            | Frequency    | Concepts Tested                        | Commonly Asked In                  |
+| ---- | --------------------------------------- | ------------ | -------------------------------------- | ---------------------------------- |
+| 1    | **Second Largest Element**              | 🔥 Very High | Single pass scan, comparison logic     | TCS, Infosys, Wipro, Capgemini     |
+| 2    | **Remove Duplicates from Sorted Array** | 🔥 Very High | Two pointer technique                  | Amazon, Wipro, Cognizant, Infosys  |
+| 3    | **Max Consecutive Ones**                | 🔥 Very High | Counters, sliding window               | Amazon, Flipkart, TCS              |
+| 4    | **Missing and Repeating in Array**      | 🔥 Very High | Math formulas, hashing, XOR            | Amazon, Infosys, Capgemini, TCS    |
+| 5    | **Move All Zeroes To End**              | 🔥 Very High | Two pointer / in-place swap            | TCS, Infosys, Wipro                |
+| 6    | **Rotate Array**                        | 🔥 Very High | Reversal algorithm, modular rotation   | Amazon, Flipkart, Microsoft        |
+| 7    | **Array Leaders**                       | 🔥 Very High | Right-to-left scan, max suffix logic   | Infosys, Wipro, TCS                |
+| 8    | **Plus One**                            | 🟡 Moderate  | Carry logic, digit manipulation        | Amazon, Microsoft, Capgemini       |
+| 9    | **Reverse Array in Groups**             | 🟡 Moderate  | In-place group reversal                | TCS, Infosys                       |
+| 10   | **Three Great Candidates**              | 🟡 Moderate  | Sorting + product + edge-case analysis | Flipkart, Microsoft (variation)    |
+| 11   | **Alternate Positive Negative**         | 🟡 Moderate  | Reordering, auxiliary array / rotation | TCS, Wipro                         |
+| 12   | **Remove All Occurrences of Element**   | 🟡 Moderate  | In-place removal, pointer tracking     | Infosys, TCS                       |
+| 13   | **Missing Ranges of Numbers**           | 🟡 Moderate  | Boundary check, range generation       | Google, Amazon (variation in logs) |
+| 14   | **Repetitive Addition of Digits**       | 🟢 Low       | Digit root / loop logic                | Wipro, Capgemini                   |
+| 15   | **Third Largest Element**               | 🟢 Low       | Extension of second-largest logic      | Service-based warm-up              |
+| 16   | **Insert Duplicate Element**            | 🟢 Low       | Simple insertion                       | Academic or practice only          |
+| 17   | **Wave Array**                          | 🟢 Low       | Swap pattern                           | TCS, Wipro (rarely asked)          |
+
+
+
+Medium
+====================
+
+
+Next Permutation
+Majority Element
+Majority Element II
+Stock Buy and Sell – Multiple Transactions
+Minimize the Heights II
+Maximum Subarray Sum
+Maximum Product Subarray
+Product of Array Except Self
+Subarrays with Product Less Than K
+Split Into Three Equal Sum Segments
+Maximum Consecutive 1s After Flipping 0s
+Last Moment Before Ants Fall Out of Plank
+Find 0 with Farthest 1s in a Binary
+Intersection of Interval Lists
+Rearrange Array Elements by Sign
+Meeting Scheduler for Two Persons
+Longest Mountain Subarray
+Transform and Sort Array
+Minimum Swaps To Group All Ones
+Minimum Moves To Equalize Array
+Minimum Indices To Equal Even-Odd Sums
+
+
+| Rank | Problem Name                                   | Frequency    | Concepts Tested                      | Commonly Asked In              |
+| ---- | ---------------------------------------------- | ------------ | ------------------------------------ | ------------------------------ |
+| 1    | **Next Permutation**                           | 🔥 Very High | Greedy, permutation logic            | Amazon, Microsoft, Flipkart    |
+| 2    | **Majority Element**                           | 🔥 Very High | Boyer-Moore Voting Algorithm         | Amazon, Adobe, TCS, Wipro      |
+| 3    | **Maximum Subarray Sum** (Kadane’s)            | 🔥 Very High | Kadane’s Algorithm                   | Amazon, TCS, Infosys, Flipkart |
+| 4    | **Product of Array Except Self**               | 🔥 Very High | Prefix Product, Constant Space Trick | Amazon, Microsoft, Google      |
+| 5    | **Majority Element II**                        | 🔥 Very High | Extended Boyer-Moore (n/3 majority)  | Amazon, Microsoft, Adobe       |
+| 6    | **Maximum Product Subarray**                   | 🔥 Very High | Kadane-like DP with min/max tracking | Amazon, Flipkart               |
+| 7    | **Stock Buy and Sell – Multiple Transactions** | 🔥 Very High | Greedy Accumulation                  | Amazon, Infosys, TCS           |
+| 8    | **Minimum Swaps To Group All Ones**            | 🟡 Moderate  | Sliding Window + Count Ones          | Amazon, Flipkart, Wipro        |
+| 9    | **Split Into Three Equal Sum Segments**        | 🟡 Moderate  | Prefix sum, counting partitions      | Flipkart, Google               |
+| 10   | **Maximum Consecutive 1s After Flipping 0s**   | 🟡 Moderate  | Sliding Window (At most k flips)     | Amazon, Microsoft              |
+| 11   | **Rearrange Array Elements by Sign**           | 🟡 Moderate  | Two pointer, reordering              | TCS, Capgemini                 |
+| 12   | **Meeting Scheduler for Two Persons**          | 🟡 Moderate  | Interval merge + sweep line          | Google, Amazon                 |
+| 13   | **Subarrays with Product Less Than K**         | 🟡 Moderate  | Sliding Window                       | Google, Adobe                  |
+| 14   | **Intersection of Interval Lists**             | 🟡 Moderate  | Two pointer on sorted intervals      | Google, Facebook               |
+| 15   | **Minimize the Heights II**                    | 🟡 Moderate  | Greedy + Sorting                     | Flipkart, TCS                  |
+| 16   | **Longest Mountain Subarray**                  | 🟡 Moderate  | Up-down detection, 3-pass or 1-pass  | Amazon, Flipkart               |
+| 17   | **Transform and Sort Array**                   | 🟢 Low       | Math + sorting                       | Rare                           |
+| 18   | **Last Moment Before Ants Fall**               | 🟢 Low       | Simulation                           | Google (rare), Brain Teasers   |
+| 19   | **Find 0 with Farthest 1s in Binary**          | 🟢 Low       | Max window distance                  | Wipro, Miscellaneous           |
+| 20   | **Minimum Moves To Equalize Array**            | 🟢 Low       | Math/Greedy                          | TCS, Capgemini                 |
+| 21   | **Minimum Indices To Equal Even-Odd Sums**     | 🟢 Low       | Prefix sums trick                    | Rare / Competitive rounds      |
+
+
+Hard
+==============
+
+Trapping Rain Water
+Maximum Circular Subarray Sum
+Smallest Missing Positive Number
+Jump Game
+Closest Subsequence Sum
+Smallest Non-Representable Sum in Array
+Smallest Range Having Elements From K Lists
+Candy Distribution
+Count Subarrays with K Distinct Elements
+Next Smallest Palindrome
+Maximum Sum Among All Rotations
+
+
+| Rank | Problem Name                                    | Frequency    | Concepts Tested                         | Common Companies            |
+| ---- | ----------------------------------------------- | ------------ | --------------------------------------- | --------------------------- |
+| 1    | **Trapping Rain Water**                         | 🔥 Very High | Two Pointer, Preprocessing (Prefix/Max) | Amazon, Microsoft, Google   |
+| 2    | **Smallest Missing Positive Number**            | 🔥 Very High | Index Mapping, In-place Hashing         | Amazon, Flipkart, Google    |
+| 3    | **Maximum Circular Subarray Sum**               | 🔥 Very High | Kadane’s + Wrap-around logic            | Amazon, Microsoft, Adobe    |
+| 4    | **Jump Game**                                   | 🔥 Very High | Greedy, DP                              | Amazon, Microsoft, Flipkart |
+| 5    | **Candy Distribution**                          | 🔥 High      | Greedy (2 passes)                       | Amazon, Google, Uber        |
+| 6    | **Maximum Sum Among All Rotations**             | 🟡 Moderate  | Prefix Sum + Formula (Rotation effect)  | Microsoft, Oracle, TCS      |
+| 7    | **Count Subarrays with K Distinct Elements**    | 🟡 Moderate  | Sliding Window + HashMap                | Google, Adobe, Flipkart     |
+| 8    | **Next Smallest Palindrome**                    | 🟡 Moderate  | Digit-by-digit construction, simulation | Amazon, Adobe               |
+| 9    | **Smallest Range Having Elements From K Lists** | 🟡 Moderate  | Min Heap + Sliding Window               | Amazon, Google, Microsoft   |
+| 10   | **Smallest Non-Representable Sum in Array**     | 🟢 Low       | Greedy (special trick)                  | Competitive (Codeforces)    |
+| 11   | **Closest Subsequence Sum**                     | 🟢 Low       | Meet in the Middle / Binary Search      | Rare (Top product only)     |
