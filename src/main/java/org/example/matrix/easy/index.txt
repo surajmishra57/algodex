@@ -1,0 +1,29 @@
+Valid Suduku
+Validate Tic Tac Toe
+The Celebrity Problem
+Boundary Elements
+Matrix Zig-Zag
+Rotate Matrix Elements by 1
+Matrix Spiral
+Unique in a matrix
+Swap major and minor diagonals
+Check idempotent matrix
+Pascal's Triangle
+Toeplit Matrix
+Possible moves of knight
+
+| **Rank** | **Problem**                         | **Frequency** | **Commonly Asked In**                      |
+| -------: | ----------------------------------- | ------------- | ------------------------------------------ |
+|        1 | **Valid Sudoku**                    | 🔥 Very High  | Google, Amazon, Microsoft, Adobe           |
+|        2 | **The Celebrity Problem**           | 🔥 Very High  | Amazon, Flipkart, Paytm, Adobe             |
+|        3 | **Matrix Spiral Traversal**         | 🔥 High       | TCS, Infosys, Capgemini, Wipro             |
+|        4 | **Matrix Zig-Zag Traversal**        | 🔥 High       | Walmart, Zoho, Mindtree                    |
+|        5 | **Rotate Matrix Elements by 1**     | 🔥 High       | Oracle, Accenture, Service-based companies |
+|        6 | **Validate Tic Tac Toe**            | 🔥 Medium     | Amazon, Service-Based, Game Logic Rounds   |
+|        7 | **Boundary Elements**               | 🔥 Medium     | Cognizant, HCL, Infosys                    |
+|        8 | **Unique Elements in Matrix**       | 🔥 Medium     | Amazon, Accenture, Zoho                    |
+|        9 | **Possible Moves of Knight**        | 🔥 Medium     | Microsoft, Google (as BFS/DFS variants)    |
+|       10 | **Swap Major and Minor Diagonals**  | ⚠️ Low        | TCS, HCL, Mindtree                         |
+|       11 | **Check Idempotent Matrix**         | ⚠️ Very Low   | Rare - Theoretical/Math-heavy roles        |
+|       12 | **Toeplitz Matrix Check**           | ⚠️ Very Low   | Rare - Appears in numerical analysis       |
+|       13 | **Pascal’s Triangle (Matrix View)** | ⚠️ Very Low   | Sometimes asked as number triangle problem |
