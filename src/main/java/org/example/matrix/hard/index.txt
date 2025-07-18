@@ -1,0 +1,29 @@
+Median in a Row-Wise Sorted
+A Boolean Matrix Question
+Matrix Chain Multiplication
+Max sum square sub-matrix of given size
+Largest rectangle sub-matrix with all 1s
+Construct Ancestor Matrix from a Binary Tree
+K’th element in spiral form of matrix
+Largest ‘+’ formed by all ones in a binary matrix
+Shortest path in a Binary Maze
+Minimum Initial Points to Reach Destination
+Strassen’s Matrix Multiplication
+Max sum rectangle in a 2D matrix
+Sudoku Generator
+
+| **Rank** | **Problem**                                             | **Frequency** | **Commonly Asked In**                         |
+| -------: | ------------------------------------------------------- | ------------- | --------------------------------------------- |
+|        1 | **Matrix Chain Multiplication** (DP)                    | 🔥 Very High  | Amazon, Microsoft, Google, Adobe              |
+|        2 | **Shortest Path in a Binary Maze** (BFS)                | 🔥 Very High  | Facebook, Flipkart, Amazon                    |
+|        3 | **Max Sum Rectangle in a 2D Matrix**                    | 🔥 High       | Amazon, Adobe, Uber                           |
+|        4 | **Median in a Row-Wise Sorted Matrix**                  | 🔥 High       | Amazon, Oracle, Paytm                         |
+|        5 | **K'th Element in Spiral Form of Matrix**               | 🔥 High       | Infosys, TCS, Capgemini                       |
+|        6 | **Sudoku Generator**                                    | 🔥 Medium     | High-end Algo Rounds (Google, Facebook)       |
+|        7 | **A Boolean Matrix Problem** (e.g., set rows/cols to 1) | 🔥 Medium     | Microsoft, Adobe                              |
+|        8 | **Max Sum Square Sub-matrix of Given Size**             | 🔥 Medium     | Walmart, Zoho, Amazon                         |
+|        9 | **Largest Rectangle Sub-matrix with All 1s**            | 🔥 Medium     | Flipkart, Adobe, Samsung                      |
+|       10 | **Minimum Initial Points to Reach Destination**         | 🔥 Medium     | Google, Amazon (DP/Greedy Hybrid)             |
+|       11 | **Strassen’s Matrix Multiplication**                    | ⚠️ Low        | Rare - Theoretical/Academia                   |
+|       12 | **Construct Ancestor Matrix from a Binary Tree**        | ⚠️ Low        | Very rare - Only seen in tree-advanced logic  |
+|       13 | **Largest '+' Formed by All 1s in a Matrix**            | ⚠️ Low        | Niche contests, not asked often in interviews |
