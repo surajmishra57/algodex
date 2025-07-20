@@ -1,0 +1,21 @@
+Search in a Matrix
+Addition, Subtraction & Multiplication
+Sort the given matrix
+Search in a sorted matrix
+Traverse Matrix using Recursion
+Transpose of a matrix
+Determinant of a Matrix
+Adjoint and Inverse of a Matrix
+
+
+
+| **Rank** | **Problem**                                      | **Frequency** | **Commonly Asked In**                              |
+| -------: | ------------------------------------------------ | ------------- | -------------------------------------------------- |
+|        1 | **Search in a Sorted Matrix**                    | 🔥 Very High  | Amazon, Microsoft, Google, Adobe                   |
+|        2 | **Search in a Matrix**                           | 🔥 Very High  | Flipkart, Samsung, TCS, Wipro                      |
+|        3 | **Sort the Given Matrix**                        | 🔥 High       | Adobe, Paytm, Oracle                               |
+|        4 | **Transpose of a Matrix**                        | 🔥 High       | Infosys, Cognizant, TCS                            |
+|        5 | **Matrix Addition, Subtraction, Multiplication** | 🔥 Medium     | Capgemini, Accenture, TCS                          |
+|        6 | **Traverse Matrix using Recursion**              | 🔥 Medium     | Startups, Niche Roles (Algorithmic based)          |
+|        7 | **Determinant of a Matrix**                      | ⚠️ Low        | Rare (Mostly core math-heavy or research roles)    |
+|        8 | **Adjoint and Inverse of a Matrix**              | ⚠️ Very Low   | Rare (Asked in core CS or numerical methods roles) |

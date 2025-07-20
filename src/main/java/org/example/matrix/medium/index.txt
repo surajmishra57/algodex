@@ -1,0 +1,30 @@
+Conway’s Game Of Life
+Rotate a matrix by 90
+Rotate a matrix by 180
+Largest ‘X' Bordered Submatrix
+Largest Square Submatrix with All 1s
+Os in a row and column wise sorted
+Queries in a Matrix
+Count Pairs With Sum from 2 Matrices
+Pairs sum from different rows
+Find all permuted rows of a given row
+No of Transformations to make two Matrix Equal
+Minimum flip to make Binary Matrix symmetric
+Magic Square
+
+
+| **Rank** | **Problem**                                              | **Frequency** | **Commonly Asked In**                             |
+| -------: | -------------------------------------------------------- | ------------- | ------------------------------------------------- |
+|        1 | **Rotate a Matrix by 90 Degrees**                        | 🔥 Very High  | Amazon, Microsoft, Adobe, Flipkart                |
+|        2 | **Largest Square Submatrix with All 1s** (DP)            | 🔥 Very High  | Google, Meta, Adobe, Walmart                      |
+|        3 | **Rotate a Matrix by 180 Degrees**                       | 🔥 High       | TCS, Wipro, Infosys                               |
+|        4 | **Conway’s Game of Life**                                | 🔥 High       | Google, Facebook (System design logic)            |
+|        5 | **Os in Row & Column-wise Sorted Matrix**                | 🔥 High       | Amazon, Flipkart, Oracle                          |
+|        6 | **Count Pairs With Sum from 2 Matrices**                 | 🔥 Medium     | Adobe, Walmart, Paytm                             |
+|        7 | **Find All Permuted Rows of a Given Row**                | 🔥 Medium     | Startups, Niche Algo Rounds                       |
+|        8 | **Magic Square**                                         | 🔥 Medium     | Microsoft (math-based logic), Service-based       |
+|        9 | **Minimum Flips to Make Binary Matrix Symmetric**        | 🔥 Medium     | Samsung, Research-based, Codeforces               |
+|       10 | **Largest ‘X’ Bordered Submatrix**                       | ⚠️ Medium/Low | Rare but seen in hard coding rounds               |
+|       11 | **Queries in a Matrix**                                  | ⚠️ Medium/Low | Seen in CP + Competitive Preps (like Range Sum)   |
+|       12 | **Number of Transformations to Make Two Matrices Equal** | ⚠️ Low        | Rare - Seen in optimization or string-based logic |
+|       13 | **Pairs Sum from Different Rows**                        | ⚠️ Low        | Very specific - Mostly logical or contest-based   |
