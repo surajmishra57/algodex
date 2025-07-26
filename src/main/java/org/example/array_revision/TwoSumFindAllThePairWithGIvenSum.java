@@ -39,7 +39,7 @@ public class TwoSumFindAllThePairWithGIvenSum {
             map.get(arr[i]).add(i);
 
         }
-        res.sort(Comparator.comparingInt(List::getFirst));
+//        res.sort(Comparator.comparingInt(List::getFirst));
         return res;
     }
 }
