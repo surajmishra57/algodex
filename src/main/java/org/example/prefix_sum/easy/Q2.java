@@ -32,7 +32,7 @@ public class Q2 {
         int[] prefixSum = new int[nums.length + 1];
 //        prefixSum[0] = nums[0];
         for (int i = 1; i <= nums.length; i++) {
-            prefixSum[i] = prefixSum[i - 1] + nums[i-1];
+            prefixSum[i] = prefixSum[i - 1] + nums[i - 1];
         }
 
         for (int i = 0; i < queries.length; i++) {
