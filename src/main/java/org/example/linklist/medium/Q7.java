@@ -31,7 +31,7 @@ public class Q7 {
         firstNode.next = new Node(2);
         firstNode.next.next = new Node(3);
         firstNode.next.next.next = new Node(4);
-        firstNode.next.next.next.next = new Node(5);
+        firstNode.next.next.next.next = new Node(6);
 
         Node secondNode = new Node(2);
         secondNode.next = new Node(4);
@@ -48,6 +48,8 @@ public class Q7 {
         Node secondCurr = secondNode;
         Node head = null;
         while (firstCurr != null && secondCurr != null) {
+
+
             if (firstCurr.data == secondCurr.data) {
                 if (head == null) {
                     head = new Node(firstCurr.data);
@@ -58,8 +60,8 @@ public class Q7 {
                     }
                     temp.next = new Node(firstCurr.data);
                 }
-                firstCurr = firstNode.next;
-                secondCurr = secondNode.next;
+                firstCurr = firstCurr.next;
+                secondCurr = secondCurr.next;
             } else if (firstCurr.data > secondCurr.data) {
                 secondCurr = secondCurr.next;
             } else {
