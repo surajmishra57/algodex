@@ -45,6 +45,7 @@ public class Q1 {
 
     private static void inorderUsingItreation(BinaryTreeNode root) {
         Stack<BinaryTreeNode> stack = new Stack<>();
+
         BinaryTreeNode curr = root;
         while (curr != null || !stack.isEmpty()) {
             while (curr != null) {
