@@ -8,6 +8,18 @@ public class Q2 {
         int target = 7;
 
         findAllSubSeqWithEqualSum(arr, target, 0, 0, new ArrayList<Integer>());
+        int count = countAllSubSeqWithEqualSum(arr, target, 0, 0);
+        System.out.println("count of subseq with sum " + count);
+    }
+
+    private static int countAllSubSeqWithEqualSum(int[] arr, int target, int index, int currSum) {
+        if (index >= arr.length) {
+            if (currSum == target)
+                return 1;
+            return 0;
+        }
+        return countAllSubSeqWithEqualSum(arr, target, index + 1, currSum + arr[index])
+                + countAllSubSeqWithEqualSum(arr, target, index + 1, currSum);
     }
 
     private static void findAllSubSeqWithEqualSum(int[] arr, int target, int index, int currSUm, ArrayList<Integer> ds) {
