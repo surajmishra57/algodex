@@ -5,8 +5,8 @@ import java.util.Arrays;
 
 public class Q2 {
     public static void main(String[] args) {
-        int[] arr = new int[]{1, 2, 3};
-        int target = 7;
+        int[] arr = new int[]{10,1,2,7,6,1,5};
+        int target = 8;
 
         findAllSubSeqWithEqualSum(arr, target, 0, 0, new ArrayList<Integer>());
         int count = countAllSubSeqWithEqualSum(arr, target, 0, 0);
