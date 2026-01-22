@@ -1,7 +1,5 @@
 package org.example.dp.gfg.basic;
 
-import java.util.Map;
-
 public class Q6_WeightClimeStair {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 100, 1, 1, 1, 100, 1, 1, 100, 1};
