@@ -1,5 +1,8 @@
 package org.example.dp.gfg.basic;
 
+/**
+ * The type Q 6 weight clime stair.
+ */
 public class Q6_WeightClimeStair {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 100, 1, 1, 1, 100, 1, 1, 100, 1};
